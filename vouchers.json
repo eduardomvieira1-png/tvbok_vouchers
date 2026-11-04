@@ -1,7 +1,7 @@
 {
   "listas": {
-    "canais": "https://raw.githubusercontent.com/eduardomvieira1-png/IPTV/refs/heads/main/IPTV_GitHub.m3u",
-    "filmesSeries": "https://raw.githubusercontent.com/eduardomvieira1-png/IPTV/refs/heads/main/filmes"
+    "canais": "",
+    "filmesSeries": ""
   },
   "vouchers": [
     {
