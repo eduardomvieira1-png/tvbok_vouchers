@@ -9,7 +9,7 @@ Base de vouchers do **TV BOK**. O app lê o `vouchers.json` deste repositório p
 
 ```bash
 node gerar-voucher.mjs --qtd 3 --dias 30 --nota "Cliente"
-node gerar-voucher.mjs --desativar TVBK-XXXX-XXXX-XXXX
+node gerar-voucher.mjs --desativar K7QM-4HXP
 ```
 
 Depois faça commit e push do `vouchers.json`.

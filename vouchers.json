@@ -38,6 +38,45 @@
       "expira": "2026-12-04",
       "nota": "lote inicial",
       "criado": "2026-11-04"
+    },
+    {
+      "pbkdf2": "4bd373cbfaee2b88d3d40092cfdf17910cd3f5b78ed17cf48ebae2ec7273ad8c",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote curto",
+      "criado": "2026-11-04"
+    },
+    {
+      "pbkdf2": "8ac6f8a8d0c0ce163a064cbb7b7faa48d0e71da75ab82cba3f2e838c4d8d48cb",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote curto",
+      "criado": "2026-11-04"
+    },
+    {
+      "pbkdf2": "ca97021b24367935c0bbc2239b7b08282df990c2a70228aea2481c515fd08808",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote curto",
+      "criado": "2026-11-04"
+    },
+    {
+      "pbkdf2": "898b485cc6e07a061342c3e6b9735c9472d2f6b5d74042d18e2f63a0c8da9934",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote curto",
+      "criado": "2026-11-04"
+    },
+    {
+      "pbkdf2": "61c62d72d8cf336241006d99d4f1a811ac29a50f7f9c43affcd5a62cffa3ffe4",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote curto",
+      "criado": "2026-11-04"
     }
-  ]
+  ],
+  "kdf": {
+    "salt": "b0a1773fb37f25cd68d84e975a9f8962",
+    "iteracoes": 100000
+  }
 }
