@@ -1,0 +1,43 @@
+{
+  "listas": {
+    "canais": "",
+    "filmesSeries": ""
+  },
+  "vouchers": [
+    {
+      "hash": "28d0d499b1df8a5b2a1e6d9040ef1ee4b1a232737c7a88162fcbc687ee5155a0",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote inicial",
+      "criado": "2026-11-04"
+    },
+    {
+      "hash": "b43c974355ae3e7543bdebd9f7bb7fd875d1471523f20b7c8bddbbebd54ae1e3",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote inicial",
+      "criado": "2026-11-04"
+    },
+    {
+      "hash": "6ef60be2793319306e713efbf0d07baf28666e55f55122fffc81bd3e4c0ae875",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote inicial",
+      "criado": "2026-11-04"
+    },
+    {
+      "hash": "7f3278b9ecbfbac539ebeb4b54189188438e4169307d2d8e8a6f8fcb62495643",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote inicial",
+      "criado": "2026-11-04"
+    },
+    {
+      "hash": "9141c9228289aa002a647f3ae5aff67c6992fb29f7b6ec83c899aa614c2ca8e2",
+      "ativo": true,
+      "expira": "2026-12-04",
+      "nota": "lote inicial",
+      "criado": "2026-11-04"
+    }
+  ]
+}
